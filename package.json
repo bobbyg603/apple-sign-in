@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/apple-sign-in",
+  "name": "@bobbyg603/apple-sign-in",
   "version": "7.0.0",
   "description": "Capacitor Sign in with Apple",
   "main": "dist/esm/index.js",
